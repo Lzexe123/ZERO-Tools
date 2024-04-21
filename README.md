@@ -98,3 +98,4 @@ RedTiger has been developed solely for educational purposes. This project has be
 - Creator: Loxyteck<br>
 - Version: 4.0
 </p>
+![image](https://github.com/Lzexe123/ZERO-Tools/assets/167656421/51c05002-bbff-49ba-8d75-2c61a3b6bf89)
