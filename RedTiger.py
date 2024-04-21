@@ -209,7 +209,7 @@ while True:
                       ░ ░       ░  ░   ░         ░ ░                  ░ ░      ░ ░      ░  ░
                     ░                                                                       
 
-                                           {white}https://discord.gg/AYjFQHaM2b
+                                           {white}https://discord.com/invite/AYjFQHaM2b
 {red}Owner:lz.exe123
 {white}═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
    {page}
